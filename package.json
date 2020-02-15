@@ -7,6 +7,6 @@
     "@types/googlemaps": "^3.38.0",
     "default-passive-events": "^1.0.10",
     "faker": "^4.1.0",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   }
 }
